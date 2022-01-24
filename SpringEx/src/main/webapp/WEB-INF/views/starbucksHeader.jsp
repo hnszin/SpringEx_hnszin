@@ -4,13 +4,12 @@
 <head>
 <meta charset="UTF-8">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@800&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Berkshire+Swash&family=Covered+By+Your+Grace&family=Fredericka+the+Great&family=Libre+Barcode+39&family=Monoton&family=Shadows+Into+Light+Two&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/resources/css/starbucksHeader.css"/>
-<title>starbucksHeader</title>
+<link rel="stylesheet" href="./resources/css/starbucksHeader.css"/>
+<title>starbucks</title>
 </head>
 <body>
 	<header id="header">

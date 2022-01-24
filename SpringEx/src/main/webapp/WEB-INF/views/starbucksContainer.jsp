@@ -1,11 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@include file="starbucksHeader.jsp" %>
-<link rel="stylesheet" href="/resources/css/starbucksContainer.css"/>
+<link rel="stylesheet" href="./resources/css/starbucksContainer.css"/>
 <div id="main" class="scroll-container">
 		<section class="section1">
 			<div class="s1d"> 			<!-- 절대경로 -->
-				<p class="main1_photo"><img src="http://localhost:8080/resources/img/SBX2020121420-HolBev-Feature-2.jpg" alt=""></p>
+				<p class="main1_photo"><img src="./resources/img/Container-main.jpg" alt=""></p>
                     
 				<ul class="main1_text">
 					<li class="m1t1"><span>Merry christmas</span> <br>With Starbucks korea.</li>
@@ -20,7 +20,7 @@
 		
 		<section class="section2">
 			<div class="s2d">			<!-- 절대경로 -->
-				<p class="main2_photo"><img src="http://localhost:8080/resources/img/myownMerryStory.png" alt=""></p>
+				<p class="main2_photo"><img src="./resources/img/Container-myownMerryStory.png" alt=""></p>
                     
 				<ul class="main2_text">
 					<li class="m2t1">FIND YOUR TASTE</li> 
